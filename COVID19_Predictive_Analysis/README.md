@@ -16,7 +16,7 @@ This project provides a comprehensive analysis of global COVID-19 trends. It cov
 The project provides full performance metrics, including Accuracy, F1-scores, and Classification Reports.
 * **Visual Validation:** Includes Confusion Matrices to identify model bias and classification accuracy.
 
-![Confusion Matrix Comparison](CONFUSIONMATRIX)
+![Confusion Matrix Comparison]("CONFUSIONMATRIX.PNG")
 
 ## 📖 How to Use
 1. **Upload to Colab:** Open the `.ipynb` file in Google Colab (**File → Upload notebook**).
