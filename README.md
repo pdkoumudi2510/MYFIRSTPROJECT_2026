@@ -1,27 +1,18 @@
-# [Project Name: COVID-19 Data Analysis: Predicting Continent from Country-Level Health Statistics]
+# COVID-19 Health Analytics: Predictive Modeling & AI Strategy
 
-## 🎯 Overview
-A brief (2-3 sentence) summary of what this project does. 
-*Example: This project explores predictive modeling techniques on medical datasets while applying organizational change management frameworks to ensure ethical AI integration.*
+## 🎯 Project Overview
+This project demonstrates the application of machine learning to classify geographic continents based on global COVID-19 health metrics. It serves as a showcase for high-integrity data processing and the strategic integration of AI within public health policy frameworks.
 
-## 🚀 Key Features
-- **Data Cleaning & Imputation:** Handling missing values and feature selection.
-- **Model Comparison:** Evaluating Logistic Regression vs. Random Forest performance.
-- **Ethical Governance:** Applying a personal leadership framework for responsible AI.
+## 🚀 Key Technical Features
+* **Data Cleaning & Imputation:** Handled missing values in health metrics and removed duplicate records to ensure data quality.
+* **Model Benchmarking:** Comparative analysis between **Logistic Regression** and **Random Forest** classifiers.
+* **Ethical Governance:** Applied the **ADKAR** and **Kotter’s 8-Step** change management models to guide responsible AI integration.
 
-## 🛠️ Technical Stack
-- **Language:** Python 3.x
-- **Libraries:** Pandas, Scikit-Learn, Matplotlib, Seaborn
-- **Frameworks:** ADKAR, Kotter’s 8-Step Model for AI integration
-- **ML Libraries:** scikit-learn, pandas, numpy
-- **NLP Libraries:** transformers, nltk, spacy
+## 📊 Performance Results
+* **Top Performer:** The **Random Forest** model successfully identified all 6 continent categories.
+* **Key Insight:** Logistic Regression exhibited a "Majority Class Bias," frequently misidentifying regions as Africa. The Random Forest ensemble approach corrected this, providing much higher reliability for regional health predictions.
 
-## 📊 Results & Insights
-- Found that [X feature] was the strongest predictor of [Y outcome].
-- Achieved an accuracy of [X%] using [Model Name].
-
-## 📂 Project Structure
-- `data/`: Raw and processed datasets (if public).
-- `notebooks/`: Jupyter notebooks for exploratory data analysis.
-- `models/`: Saved model files or scripts.
-- `.gitignore`: Ensures clean version control.
+## 🛠 Technical Stack
+* **Language:** Python 3.x
+* **Libraries:** Pandas, Scikit-Learn, Matplotlib, Seaborn
+* **Frameworks:** ADKAR Change Management, Kotter’s 8-Step Leadership Model
